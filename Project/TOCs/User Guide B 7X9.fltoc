@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -14,7 +14,7 @@
     BreakType="pageLayout"></TocEntry>
   <TocEntry
     Title="Copyright"
-    Link="/Content/Print Only Topics/Copyright.htm"
+    Link="/Content/Output/Copyright.htm"
     StartPageLayout="true"
     StartSection="false"
     BreakType="pageLayout"

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -14,7 +14,7 @@
     BreakType="pageLayout"></TocEntry>
   <TocEntry
     Title="Copyright"
-    Link="/Content/Print Only Topics/Copyright.htm"
+    Link="/Content/Output/Copyright.htm"
     StartPageLayout="true"
     StartSection="false"
     BreakType="pageLayout"
@@ -137,7 +137,7 @@
     ChapterNumberReset="continue" />
   <TocEntry
     Title="Glossary"
-    Link="/Content/Print Only Topics/Glossary.htm"
+    Link="/Content/Analyzer/Glossary.htm"
     BreakType="pageLayout"
     PageLayout="/Content/Resources/PageLayouts/7X9/Glossary7X9.flpgl"
     PageType="firstright"
